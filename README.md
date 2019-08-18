@@ -1,10 +1,10 @@
+Unit 4 | Assignment - Pandas, Pandas, Pandas
+
 PyCity Schools Analysis
 
 The schools with under 2000 students have much higher passing rates than those with student populations above 2000. 
 The same pattern is seen with high and low per student spending brackets and district versus charter schools.
 The top 5 schools are all charter schools and the bottom 5 all district schools.
-
-Unit 4 | Assignment - Pandas, Pandas, Pandas
 
 Background
 
